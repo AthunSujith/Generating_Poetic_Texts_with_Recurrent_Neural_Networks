@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Models and Data (Too large for GitHub)
+models/
+data/raw/
+data/cleaned/
+data/splits/
+logs/
+experiments/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
